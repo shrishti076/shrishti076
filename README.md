@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrishti076
+- 👋 Hi, I’m @simpliShrishti
 - 👀 I’m interested in web development, Go and UXD
 - 🌱 I’m currently learning JS and Go
 - 💞️ I’m looking to collaborate on projects related to JS and Go
