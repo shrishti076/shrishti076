@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrishti076
-- 👀 I’m interested in web development, Go and UXD
-- 🌱 I’m currently learning JS and Go
-- 💞️ I’m looking to collaborate on projects related to JS and Go
+- 👀 I’m leaning and working with Golang, Docker and Kubernetes
+- 🌱 Started my Opensource jouney and world love to explore new opportunities
+- 💞️ Looking to collaborate on projects
 - 📫 Reach me on shrishtishreya23@gmail.com
 
 <!---
